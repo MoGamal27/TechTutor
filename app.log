@@ -1,0 +1,61 @@
+2024-06-25T15:41:22.834Z [info]: Server started on port 4000
+2024-06-25T15:41:25.259Z [info]: MongoDB connected
+2024-06-25T15:42:17.914Z [info]: GET /api/review/
+2024-06-25T15:42:57.353Z [info]: GET /api/course/
+2024-06-25T15:42:57.579Z [info]: Get all courses
+2024-06-25T16:28:24.277Z [info]: Server started on port 4000
+2024-06-25T16:28:26.898Z [info]: MongoDB connected
+2024-06-25T16:31:29.114Z [info]: POST /api/auth/register
+2024-06-25T16:31:40.952Z [info]: POST /api/auth/login
+2024-06-25T16:32:10.453Z [info]: POST /api/course/
+2024-06-25T16:32:28.055Z [info]: POST /api/course/
+2024-06-25T16:33:36.811Z [info]: POST /api/auth/login
+2024-06-25T16:33:59.305Z [info]: POST /api/course/
+2024-06-25T16:34:17.994Z [info]: POST /api/course/
+2024-06-25T16:41:34.756Z [info]: POST /api/course/
+2024-06-25T16:47:41.284Z [info]: POST /api/course/
+2024-06-25T16:48:30.583Z [info]: Server started on port 4000
+2024-06-25T16:48:33.686Z [info]: MongoDB connected
+2024-06-25T16:48:42.219Z [info]: POST /api/course/
+2024-06-25T16:49:18.454Z [info]: POST /api/course/
+2024-06-25T17:01:54.043Z [info]: Server started on port 4000
+2024-06-25T17:01:56.260Z [info]: MongoDB connected
+2024-06-25T17:02:04.565Z [info]: POST /api/course/
+2024-06-25T17:03:58.903Z [info]: Server started on port 4000
+2024-06-25T17:04:01.491Z [info]: MongoDB connected
+2024-06-25T17:04:05.594Z [info]: POST /api/course/
+2024-06-25T17:04:14.769Z [info]: POST /api/auth/login
+2024-06-25T17:04:40.197Z [info]: POST /api/course/
+2024-06-25T17:39:38.773Z [info]: Server started on port 4000
+2024-06-25T17:39:41.563Z [info]: MongoDB connected
+2024-06-25T17:39:47.337Z [info]: POST /api/course/
+2024-06-25T17:39:59.455Z [info]: POST /api/auth/login
+2024-06-25T17:40:29.047Z [info]: POST /api/course/
+2024-06-25T17:40:49.389Z [info]: Server started on port 4000
+2024-06-25T17:40:52.433Z [info]: MongoDB connected
+2024-06-25T18:13:55.440Z [info]: Server started on port 4000
+2024-06-25T18:14:02.105Z [info]: MongoDB connected
+2024-06-25T18:14:07.321Z [info]: POST /api/course/
+2024-06-25T18:14:16.056Z [info]: POST /api/auth/login
+2024-06-25T18:14:39.736Z [info]: POST /api/course/
+2024-06-25T18:17:09.921Z [info]: Server started on port 4000
+2024-06-25T18:17:14.716Z [info]: MongoDB connected
+2024-06-25T18:17:19.082Z [info]: POST /api/course/
+2024-06-25T18:17:22.082Z [info]: Post course
+2024-06-25T18:23:13.992Z [info]: POST /api/auth/register
+2024-06-25T18:24:12.408Z [info]: POST /api/course/
+2024-06-25T18:24:14.622Z [info]: Post course
+2024-06-25T18:28:14.161Z [info]: POST /api/course/
+2024-06-25T18:28:18.795Z [info]: Post course
+2024-06-25T18:30:24.479Z [info]: Server started on port 4000
+2024-06-25T18:30:28.614Z [info]: MongoDB connected
+2024-06-25T18:30:33.877Z [info]: POST /api/course/
+2024-06-25T18:30:39.799Z [info]: Post course
+2024-06-25T18:31:04.517Z [info]: POST /api/course/
+2024-06-25T18:31:07.571Z [info]: Post course
+2024-06-25T18:33:24.881Z [info]: Server started on port 4000
+2024-06-25T18:33:28.174Z [info]: MongoDB connected
+2024-06-25T18:33:52.807Z [info]: POST /api/auth/login
+2024-06-25T18:33:59.672Z [info]: POST /api/course/
+2024-06-25T18:34:04.220Z [info]: Post course
+2024-06-25T18:35:43.080Z [info]: POST /api/auth/register
