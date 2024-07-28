@@ -114,4 +114,5 @@ Once the application is installed and running, you can perform the following act
 - `course` (FK -> Course.id)
 - `date`
 
-![relation](C:\Users\engmo\Desktop\Tech-Tutor-RelationDB.png)
+(![Tech-Tutor-RelationDB](https://github.com/user-attachments/assets/da8e3034-05c4-4963-bedc-05d08633f06d)
+)
