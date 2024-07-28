@@ -47,3 +47,71 @@ Once the application is installed and running, you can perform the following act
 
 ## API Documentation
 - **View here https://onlinetechtutor.docs.apiary.io/#reference/0/lessons
+
+# Database Schema
+## User
+- `id` (PK)
+- `fullName`
+- `email`
+- `password`
+- `confirmPassword`
+- `token`
+- `role`
+- `avatar`
+
+## Course
+- `id` (PK)
+- `title`
+- `description`
+- `instructor` (FK -> User.id)
+- `category` (FK -> Category.id)
+
+## Category
+- `id` (PK)
+- `name`
+- `description`
+
+## Certificate
+- `id` (PK)
+- `course` (FK -> Course.id)
+- `user` (FK -> User.id)
+- `issueDate`
+- `certificateUrl`
+
+## Coupon
+- `id` (PK)
+- `code`
+- `discount`
+- `expiryDate`
+
+## Enrollment
+- `id` (PK)
+- `course` (FK -> Course.id)
+- `user` (FK -> User.id)
+- `date`
+
+## Lesson
+- `id` (PK)
+- `title`
+- `description`
+- `video`
+- `course` (FK -> Course.id)
+
+## Quiz
+- `id` (PK)
+- `lesson` (FK -> Lesson.id)
+- `questions`
+
+## Review
+- `id` (PK)
+- `user` (FK -> User.id)
+- `course` (FK -> Course.id)
+- `rating`
+- `comment`
+
+## Wishlist
+- `id` (PK)
+- `course` (FK -> Course.id)
+- `date`
+
+![relation](C:\Users\engmo\Desktop\Tech-Tutor-RelationDB.png)

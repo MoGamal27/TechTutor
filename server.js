@@ -48,6 +48,7 @@ app.use('/api/certificate', certificateRouter);
 app.use('/api/search', searchRouter);
 app.use('/api/password', passwordRouter);
 
+
 app.listen(process.env.PORT || 4000, () => {
     logger.info(`Server started on port ${process.env.PORT || 4000}`);
   });
