@@ -16,7 +16,6 @@ mongoose.connect(url).then(() => {
   logger.error(err);
 });
 
-
 const userRouter = require('./routes/authRoute');
 const categoryRouter = require('./routes/categoryRoute');
 const courseRouter = require('./routes/courseRoute');
